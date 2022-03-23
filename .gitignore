@@ -1,0 +1,6 @@
+# Project exclude paths
+/out/
+/ssm_01/target/
+/ssm_02_ioc_anno/target/
+/ssm_03_mvc/target/
+/ssm_04_conclude/target/
