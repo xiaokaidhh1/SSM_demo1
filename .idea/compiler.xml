@@ -2,14 +2,17 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ssm_02_ioc_anno" />
-        <module name="ssm_01" />
-        <module name="ssm_03_mvc" />
+        <module name="ssm_homewoork_login" />
+        <module name="ssm_homework_intercepter" />
         <module name="ssm_04_conclude" />
+        <module name="ssm_03_mvc" />
+        <module name="ssm_01" />
+        <module name="ssm_02_ioc_anno" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
