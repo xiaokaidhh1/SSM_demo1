@@ -15,6 +15,7 @@
         <module>ssm_homewoork_login</module>
         <module>ssm_04_conclude</module>
         <module>ssm_homework_intercepter</module>
+        <module>ssm_homework_upload</module>
 
     </modules>
 
